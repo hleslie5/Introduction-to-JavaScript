@@ -17,7 +17,8 @@ Do the following:
 
    HINT: no function required
 */
-
+age = Y
+console.log()
 
 
 /*
