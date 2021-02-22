@@ -19,6 +19,7 @@ Do the following:
 */
 age = Y
 console.log()
+var = 'voting age'
 
 
 /*
