@@ -17,9 +17,14 @@ Do the following:
 
    HINT: no function required
 */
-age = Y
-console.log()
-var = 'voting age'
+const votingAge = 44
+if (votingAge >= 18) {
+  console.log(true);
+  }
+  else {
+  console.log(false);
+  }
+
 
 
 /*
@@ -32,6 +37,8 @@ Do the following:
 
    HINT: no function required
 */
+let firstVariable = a
+let secondVariable = b
 
 
 
